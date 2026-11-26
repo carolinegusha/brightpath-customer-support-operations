@@ -64,3 +64,23 @@ To document duplicate payments identified during the simulated payment verificat
 **Prepared by:** Customer Support Operations Associate
 
 **Project:** BrightPath Customer Support Operations Improvement
+## Refund Coordination and Responsibilities
+
+| Customer | Potential Refund | Refund Status | Responsible Department | Next Action |
+|---|---:|---|---|---|
+| C001 | ₦15,000 | Pending approval | Billing and Finance | Verify duplicate charge and approve refund |
+| C003 | ₦20,000 | Pending approval | Billing and Finance | Verify duplicate charge and approve refund |
+
+## Departmental Responsibilities
+
+- **Billing:** Confirm duplicate transactions and validate billing records.
+- **Finance:** Review and approve eligible refund requests.
+- **Customer Support:** Communicate refund decisions and provide customer updates.
+
+## Outstanding Items
+
+- Finance approval for both refund requests.
+- Confirmation of refund processing.
+- Customer notification after resolution.
+
+**Important:** All records are simulated for this portfolio exercise. No actual refunds have been processed.
