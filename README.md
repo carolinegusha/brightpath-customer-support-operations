@@ -59,4 +59,8 @@ In Progress
 
 ### Data Disclaimer
 
-This is a simulated operational case study. All customer IDs, transaction references and financial figures are fictional. No real customer accounts, payment gateways or production systems were accessed.
+This is a simulated operational case study. All customer IDs, transaction references and financial figures are fictional. No real customer accounts, payment gateways or production systems were accessed.## Project Completion
+
+The BrightPath Customer Support Operations Improvement project demonstrates the use of GitHub for issue tracking, project documentation, task management and operational reporting.
+
+Project work was completed using simulated customer and transaction records.
